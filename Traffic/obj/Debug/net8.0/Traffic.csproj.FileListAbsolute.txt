@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\Traffic\bin\Debug\net8.0\Traffic.exe
+C:\Users\User\source\repos\Interface\Traffic\bin\Debug\net8.0\Traffic.deps.json
+C:\Users\User\source\repos\Interface\Traffic\bin\Debug\net8.0\Traffic.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Traffic\bin\Debug\net8.0\Traffic.dll
+C:\Users\User\source\repos\Interface\Traffic\bin\Debug\net8.0\Traffic.pdb
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.dll
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\refint\Traffic.dll
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.pdb
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\Traffic.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Traffic\obj\Debug\net8.0\ref\Traffic.dll

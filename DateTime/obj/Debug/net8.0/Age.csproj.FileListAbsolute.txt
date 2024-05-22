@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\DateTime\bin\Debug\net8.0\Age.exe
+C:\Users\User\source\repos\Interface\DateTime\bin\Debug\net8.0\Age.deps.json
+C:\Users\User\source\repos\Interface\DateTime\bin\Debug\net8.0\Age.runtimeconfig.json
+C:\Users\User\source\repos\Interface\DateTime\bin\Debug\net8.0\Age.dll
+C:\Users\User\source\repos\Interface\DateTime\bin\Debug\net8.0\Age.pdb
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.dll
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\refint\Age.dll
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.pdb
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\Age.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\DateTime\obj\Debug\net8.0\ref\Age.dll

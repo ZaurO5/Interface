@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\Math\bin\Debug\net8.0\Math.exe
+C:\Users\User\source\repos\Interface\Math\bin\Debug\net8.0\Math.deps.json
+C:\Users\User\source\repos\Interface\Math\bin\Debug\net8.0\Math.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Math\bin\Debug\net8.0\Math.dll
+C:\Users\User\source\repos\Interface\Math\bin\Debug\net8.0\Math.pdb
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.dll
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\refint\Math.dll
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.pdb
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\Math.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Math\obj\Debug\net8.0\ref\Math.dll

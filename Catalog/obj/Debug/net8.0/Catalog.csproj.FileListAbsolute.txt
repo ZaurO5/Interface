@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\Catalog\bin\Debug\net8.0\Catalog.exe
+C:\Users\User\source\repos\Interface\Catalog\bin\Debug\net8.0\Catalog.deps.json
+C:\Users\User\source\repos\Interface\Catalog\bin\Debug\net8.0\Catalog.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Catalog\bin\Debug\net8.0\Catalog.dll
+C:\Users\User\source\repos\Interface\Catalog\bin\Debug\net8.0\Catalog.pdb
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.dll
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.pdb
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\Catalog.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Catalog\obj\Debug\net8.0\ref\Catalog.dll

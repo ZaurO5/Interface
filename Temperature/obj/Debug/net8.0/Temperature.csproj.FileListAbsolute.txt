@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\Temperature\bin\Debug\net8.0\Temperature.exe
+C:\Users\User\source\repos\Interface\Temperature\bin\Debug\net8.0\Temperature.deps.json
+C:\Users\User\source\repos\Interface\Temperature\bin\Debug\net8.0\Temperature.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Temperature\bin\Debug\net8.0\Temperature.dll
+C:\Users\User\source\repos\Interface\Temperature\bin\Debug\net8.0\Temperature.pdb
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.dll
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\refint\Temperature.dll
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.pdb
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\Temperature.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Temperature\obj\Debug\net8.0\ref\Temperature.dll

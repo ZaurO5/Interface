@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface\Months\bin\Debug\net8.0\Months.exe
+C:\Users\User\source\repos\Interface\Months\bin\Debug\net8.0\Months.deps.json
+C:\Users\User\source\repos\Interface\Months\bin\Debug\net8.0\Months.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Months\bin\Debug\net8.0\Months.dll
+C:\Users\User\source\repos\Interface\Months\bin\Debug\net8.0\Months.pdb
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.dll
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\refint\Months.dll
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.pdb
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\Months.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Months\obj\Debug\net8.0\ref\Months.dll
