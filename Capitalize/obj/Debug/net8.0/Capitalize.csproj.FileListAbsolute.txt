@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Interface\Capitalize\bin\Debug\net8.0\Capitalize.exe
+C:\Users\User\source\repos\Interface\Capitalize\bin\Debug\net8.0\Capitalize.deps.json
+C:\Users\User\source\repos\Interface\Capitalize\bin\Debug\net8.0\Capitalize.runtimeconfig.json
+C:\Users\User\source\repos\Interface\Capitalize\bin\Debug\net8.0\Capitalize.dll
+C:\Users\User\source\repos\Interface\Capitalize\bin\Debug\net8.0\Capitalize.pdb
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.sourcelink.json
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.dll
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\refint\Capitalize.dll
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.pdb
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\Capitalize.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface\Capitalize\obj\Debug\net8.0\ref\Capitalize.dll
